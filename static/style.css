@@ -1,0 +1,89 @@
+@CHARSET "ISO-8859-1";
+p{
+	color: black;
+	
+	}
+	
+.a{
+	color: blue;
+}
+
+#container{
+	background-color: #F0F0F0 ;
+	margin: auto;
+	width: 800px;
+	
+	}
+	
+body{
+	font-size: 14px;
+	color: navy;
+	background-color: #F0F0F0 ;
+	/*background-color: #FFCF79;*/
+	}
+	
+h1 {
+    color: green;
+    background-color: #009;
+    text-align: center;
+}
+
+/*h2 {
+    font-size: 1.5em;
+    background-color: #ccc;
+    margin: 20px;
+    padding: 40px;
+}*/
+
+h2 {
+    <!--border-style: dashed;-->
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: red;
+}
+.ha{
+	text-align: left;
+	}
+.w{
+	width: 500px;
+	float:left;
+	background-color: #F0F0F0 ;
+	/*column-width:50px;*/
+	}
+.con{
+	width: 260px;
+	float:right;	
+	background-color: #F0F0F0 ;
+}
+#map_canvas {
+        width: 500px;
+        height: 400px;
+      }
+      
+.h2tags{
+	color:;
+}
+.h1background{
+	background-color: #FFCF79;
+	}
+	
+.testcolor{
+	
+	color:green;
+	}
+.smalltexts{
+	 color:#593E1A;
+	 font-size: 16px;
+	}
+	
+.contrast{
+	color:#FFCF79;
+}
+.contacts{
+	color:	 #336699;
+}
+.al{
+	text-align: center;
+	font-size: 16px;
+	}
